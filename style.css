@@ -117,6 +117,7 @@ header {
     padding: .5em 2em;
     border-radius: 100px;
     font-weight: 900;
+    font-size: 1rem;
 }
 
 .section-two {
@@ -198,6 +199,17 @@ footer {
     .btn-wrapper {
         text-align: left;
     }
+
+    .btn {
+    background-color: #A59678;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#fff;
+    padding: .5em 2em;
+    border-radius: 100px;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
 
     .sidebar {
         margin-left: -2em;
