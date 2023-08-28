@@ -217,6 +217,7 @@ footer {
     font-size: 2.25rem;
     font-weight: 900;
     text-align: center;
+    line-height: 1;
 }
 
 @media (min-width:700px) {
