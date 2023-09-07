@@ -2,7 +2,7 @@
 This project comes from a course by [@kevin-powell](https://github.com/kevin-powell):   
 [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) :muscle: &nbsp; 
 
-I am glad that I took this challenge because it turned out to be priceless when it comes to understanding and consolidating\
+I am glad that I took this challenge because it turned out to be priceless when it comes to understanding and consolidating
 the fundamental concepts such as **flex property**.
 ## The project requires knowledge of:
 1. HTML
